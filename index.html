@@ -10,6 +10,8 @@ layout: default
         <h2>{{ staff_member.name }}</h2>
         <div>{{ staff_member.position }}</div>
         <img src={{ staff_member.profile_picture }} a/>
+        <span>Telefon: <img src="{{ staff_member.phone }}" style="display:block"/></span>
+        <span>Email: <img src="{{ staff_member.email }}" style="display:block" /></span>
         <p>{{ staff_member.content | markdownify }}</p>
     {% endfor %}
 
