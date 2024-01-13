@@ -46,7 +46,7 @@ o ukončení spolupráce. Pokud se strany nedohodnou jinak.
 pokud se Průvodce s Klientem nedohodnou jinak.
    2. Průvodce se zavazuje zachovávat mlčenlivost i vůči Sponzorovi (Sponzorem je ten, kdo služby platí,
 v případě, že to není sám Klient) a informuje ho pouze o tom, na čem se s Klientem přímo domluví.
-   3. Průvodce může sdílet zkušenost z koučování a terapií (např. formou videí či článků), ale jen tak, aby
+   3. Průvodce může sdílet zkušenost z koučování (např. formou videí či článků), ale jen tak, aby
 nebylo zřejmé, koho se situace týká.
 2. Pokud Průvodce zjistí, že by poskytování služeb mohlo být ve střetu zájmu, je povinen spolupráci odmítnout
 či ukončit.
@@ -70,8 +70,7 @@ nejdůležitější společně s Průvodcem. Pokud Klientovo očekávání je mi
 Pojmenování reality je ten první nejdůležitější krok k tomu, aby mohla nastat změna.
 4. Průvodce nehodnotí Klienta, ani pozitivně, ani negativně. Klient nedělá ani neříká nic jen, aby se zavděčil
 Průvodci. Klient hledá cestu posunu sám pro sebe (ne pro očekávání druhých).
-5. Klient neočekává od Průvodce v roli kouče rady. Odpovědi hledá v sobě. Průvodce v roli terapeuta oproti roli
-kouče sdílí své postřehy, zkušenosti a tipy.
+5. Klient neočekává od Průvodce v roli kouče rady. Odpovědi hledá v sobě. <!-- Průvodce v roli terapeuta oproti roli kouče sdílí své postřehy, zkušenosti a tipy.-->
 6. Průvodce nepotřebuje znát a rozumět detailům ze života Klienta. Při sdílení příběhů se Klient zaměřuje na
 popsání podstaty – pointy. Pokud by byly detaily důležité, Průvodce se na ně zeptá. Čas je pak využit
 efektivněji.
