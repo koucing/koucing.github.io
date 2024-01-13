@@ -15,10 +15,6 @@ layout: default
         <p>{{ staff_member.content | markdownify }}</p>
     {% endfor %}
 
-    <a href="{{ "/Contract.cs.html" | prepend: site.baseurl }}">Smlouva</a>
-    <a href="{{ "/Conditions.cs.html" | prepend: site.baseurl }}">Podmínky</a>
-
-
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -26,6 +22,10 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed" | prepend: site.baseurl }}">via RSS</a></p>
+  <p>
+    <a href="{{ "/Contract.cs.html" | prepend: site.baseurl }}">Smlouva</a> | 
+    <a href="{{ "/Conditions.cs.html" | prepend: site.baseurl }}">Podmínky</a> |
+    <a class="rss-subscribe" href="{{ "/feed" | prepend: site.baseurl }}">subscribe via RSS feed</a>
+  </p>
 
 </div>
