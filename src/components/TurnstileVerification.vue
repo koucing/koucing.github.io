@@ -26,7 +26,7 @@ export default defineComponent({
 
     function verify(token: string) {
       console.log(token)
-      axios.post('/api/person', { token })
+      axios.post('/api/person.json', { token })
         .then(response => {
           data.value = response.data
         })
