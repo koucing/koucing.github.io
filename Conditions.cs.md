@@ -42,7 +42,7 @@ tom, že mu tato sezení nepřinášejí požadovaný užitek.
 Kouč je povinen přijít připraven a včas na setkání a být klientovi po dobu koučovacího sezení plně k dispozici.
 
 ### Ujednání o cenách a úhradách koučinku prostřednictvím telefonické či videokonference
-Klient si cenu za první koučingové sezení určí sám a zaplatí ji předem. Může to být 0.-Kč a může to být i 3000.-Kč. Úhradu kouč přijímá pouze na fakturu. Úhradu přijímá kouč elektronicky. 
+Klient si cenu za první koučingové sezení určí sám a zaplatí ji předem. Může to být 1.-Kč. Může to být i 3000.-Kč i více pokud klient ocenuje kvalitu a koučing má pro klienta smysl a význam. Úhradu kouč přijímá pouze na fakturu. Úhradu přijímá kouč elektronicky. 
 
 Další koučovací sezení si klient a kouč dohodnou individuálně v balíčku např 4 sezení během dvou měsíců aby měl klient dost času na to uskutečnit svůj cíl. Cena těchto balíčků je popsána níže.
 
