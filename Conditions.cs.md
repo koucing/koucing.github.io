@@ -39,33 +39,22 @@ Klient má možnost ukončit spolupráci, vždy však minimálně po 3 sezeních
 tom, že mu tato sezení nepřinášejí požadovaný užitek.
 
 #### Povinnosti kouče
-Kouč je povinen přijít připraven a včas na setkání a být klientovi po dobu koučovacího sezení
-plně k dispozici.
+Kouč je povinen přijít připraven a včas na setkání a být klientovi po dobu koučovacího sezení plně k dispozici.
 
-### Ujednání o cenách a úhradách
-#### Osobní koučink
-V případě zrušení koučovacího sezení uhradí klient storno poplatek kouči dle následujících
-kritérií:
+### Ujednání o cenách a úhradách koučinku prostřednictvím telefonické či videokonference
+Klient si cenu za první koučingové sezení určí sám a zaplatí ji předem. Může to být 0.-Kč a může to být i 3000.-Kč. Úhradu kouč přijímá pouze na fakturu. Úhradu přijímá kouč elektronicky. 
 
-| max. 3 dny před jeho konáním | bez storno poplatků | 
-| méně než 3 dny před jeho konáním | 50% storno |
-| neomluvená absence nebo omluva v den konání | 100% storno |
-
-#### Koučink prostřednictvím videokonference
-V případě zrušení koučovacího sezení prostřednictvím videokonference uhradí klient storno
-poplatek kouči dle následujících kriterií:
-
-| max. 48 dny před jeho konáním | bez storno poplatků |
-| méně než 48 dny před jeho konáním | 50% storno |
-| neomluvená absence nebo omluva v den konání | 100% storno |
-
-Platba za koučink je hrazena předem podle aktuálních cen.
-
-| Koučovací sezení (60min) | 2000Kč |
-| Balíček 4 koučovacích sezení (60min) - obvykle po týdnu| 4000Kč |
+Další koučovací sezení si klient a kouč dohodnou individuálně v balíčku např 4 sezení během dvou měsíců aby měl klient dost času na to uskutečnit svůj cíl. Cena těchto balíčků je popsána níže.
 
 Je možné se s koučem domluvit na platbách více koučovacích sezení
 najednou, např. v měsíčních platbách.
+
+#### Zrušení telefonické či videokonference
+Čas je v našich životech to nejdůležitější. V případě zrušení koučovacího sezení prostřednictvím telefonické či videokonference koučovi vznikla v rozvrhu mezera, která by jinak mohla být použita efektivněji. Proto prosím o dodržení časového plánu. V případě předplaceného koučingu budou účtovány storno poplatky:
+
+| max. 48 hodin před jeho konáním | bez storno poplatků |
+| méně než 48 hodin před jeho konáním | 50% storno |
+| neomluvená absence nebo omluva v den konání | 100% storno |
 
 # Etický kodex ICF - koučink
 ## Úvod
