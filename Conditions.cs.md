@@ -1,48 +1,36 @@
 # Podmínky spolupráce - Koučování
 
-## Kouč
-Jaroslav Henner, tel: 725 580 001
+## Klient
+Klient ve pracuje na realizaci vytyčeného cíle. Kouč pouze umožňuje klientův vývoj který si klient určuje sám pomocí otázek které mu kouč dává.
 
-Kouč a klient spolu pracují na realizaci vytyčených klientových cílů. Klient do tohoto procesu
-vloží svou energii, úsilí a čas a kouč veškeré své znalosti a dovednosti, které bude užívat
-v souladu s Etickým kodexem kouče (viz příloha č. 2).
+Klient i kouč se zavazují dodržovat své dohody.
+V koučovacím rozhovoru kouč klade klientovi koučovací otázky, případně klienta může vyzvat k tomu aby  pro sebe něco napsal či nakreslil. Klient do tohoto procesu vloží svou energii, úsilí a čas a kouč veškeré své znalosti a dovednosti, které bude užívat.
 
-### Závazek kouče
+Vše bude probíhat v souladu s Etickým kodexem kouče.
+
+## Závazek kouče
 <!---
-Jsem certifikovaný kouč a člen mezinárodní asociace koučů. -->Zavázal jsem se dodržovat Etický
-kodex, který je součástí těchto podmínek. Moje porušení tohoto kodexu opravňuje klienta
-k odstoupení ze spolupráce.
+Jsem certifikovaný kouč a člen mezinárodní asociace koučů. -->
+Zavázal jsem se dodržovat Etický kodex, který je součástí těchto podmínek. Moje porušení tohoto kodexu opravňuje klienta k odstoupení ze spolupráce.
 
-### Práce v terénu
-Každé sezení je zakončeno konkrétním akčním plánem a časem jeho realizace. Tento plán si tvoří
-klient sám během sezení. Kouč doporučuje, aby jej klient vždy informoval, zdají-li se mu
-odsouhlasené akční kroky jako nedostačující, či naopak velká výzva. Kouč od klienta očekává
-splnění toho, co bylo dohodnuto během sezení a preferuje přehodnocení akčních kroků před
-tím, než aby nebyly realizovány vůbec.
+Každé sezení je zakončeno konkrétním akčním plánem a časem jeho realizace. Tento plán si tvoří klient sám během sezení. Kouč doporučuje, aby jej klient informoval o jeho stavu a jak velkou výzvou který z akčních kroků je, o kolik by se chtěl posunout dál do příštího sezení a co to pro něho bude znamenat. Kouč od klienta očekává splnění toho, co bylo dohodnuto během sezení a preferuje přehodnocení akčních kroků před tím, než aby nebyly realizovány vůbec.
 
+## Vztah klient-kouč
 ### Změna času domluveného sezení
-Kouč žádá klienta, aby koučinku udělil nejvyšší prioritu. Nakonec kouč pracuje na tom, co si
-klient sám určil jako nejvíce důležité. Sezení se nepřevádějí do dalšího týdne a jsou nezrušitelná.
-Dáte-li svému kouči předem vědět, nabídne Vám datum a čas dalšího sezení ve stejném týdnu, v
-běžné pracovní době, pouze však bude-li dostupný.
+Klient se zavazuje udělit nejvyšší prioritu tomu na čem se s koučem dohodnou. Pokud však jde o ohrožení života, klient i kouč se zavazují k podniknutí kroků k jeho zachování.
+
+Sezení se nepřevádějí do dalšího týdne. Dáte-li svému kouči předem vědět, nabídne Vám datum a čas dalšího sezení ve stejném týdnu, v běžné pracovní době, pouze však bude-li dostupný.
+
 
 ### Další práva a povinnosti
-
-#### Povinnosti klienta
-Klient je povinen chodit na dohodnuté schůzky s koučem včas.
-Klient má nárok na 2 telefonické konzultace v délce do 10 minut mezi jednotlivými návštěvami.
-Pokud je koučink realizován po telefonu nebo prostřednictvím skype, klient je ten, kdo zahajuje
-hovor.
-
 #### Práva klienta
-Klient má možnost ukončit spolupráci, vždy však minimálně po 3 sezeních, je-li přesvědčen o
-tom, že mu tato sezení nepřinášejí požadovaný užitek.
+Klient má možnost ukončit spolupráci, vždy však minimálně po 3 sezeních, je-li přesvědčen o tom, že mu tato sezení nepřinášejí požadovaný užitek.
 
 #### Povinnosti kouče
 Kouč je povinen přijít připraven a včas na setkání a být klientovi po dobu koučovacího sezení plně k dispozici.
 
 ### Ujednání o cenách a úhradách koučinku prostřednictvím telefonické či videokonference
-Klient si cenu za první koučingové sezení určí sám a zaplatí ji předem. Může to být 1.-Kč. Může to být i 3000.-Kč i více pokud klient ocenuje kvalitu a koučing má pro klienta smysl a význam. Úhradu kouč přijímá pouze na fakturu. Úhradu přijímá kouč elektronicky. 
+Klient si cenu za první koučinkové sezení určí sám a zaplatí ji předem. Může to být 1.-Kč. Může to být i 3000.-Kč i více pokud klient ocenuje kvalitu a koučink má pro klienta smysl a význam. Úhradu kouč přijímá pouze na fakturu. Úhradu přijímá kouč elektronicky. 
 
 Další koučovací sezení si klient a kouč dohodnou individuálně v balíčku např 4 sezení během dvou měsíců aby měl klient dost času na to uskutečnit svůj cíl. Cena těchto balíčků je popsána níže.
 
@@ -182,3 +170,6 @@ Pokud poruším tento etický slib nebo jakoukoli část Etického kodexu ICF, s
 podle svého výhradního uvážení, vést k zodpovědnosti. Dále souhlasím s tím, že moje odpovědnost vůči
 ICF za jakékoli porušení může zahrnovat sankce, jako je ztráta mého členství v ICF a / nebo mojí ICF
 certifikace.
+
+## Kouč
+Jaroslav Henner, tel: 725 580 001
