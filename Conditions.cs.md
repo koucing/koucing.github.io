@@ -23,9 +23,6 @@ Sezení se nepřevádějí do dalšího týdne. Dáte-li svému kouči předem v
 
 
 ### Další práva a povinnosti
-#### Práva klienta
-Klient má možnost ukončit spolupráci, vždy však minimálně po 3 sezeních, je-li přesvědčen o tom, že mu tato sezení nepřinášejí požadovaný užitek.
-
 #### Povinnosti kouče
 Kouč je povinen přijít připraven a včas na setkání a být klientovi po dobu koučovacího sezení plně k dispozici.
 
