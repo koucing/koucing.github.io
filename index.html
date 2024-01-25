@@ -1,18 +1,32 @@
 ---
 layout: default
 ---
-<div class="home">
 
-  <h1 class="page-heading">Kontakty</h1>
+<div class="home">
+  <p>
+    <h1>Typické sny a výzvy klientů řešených koučingem</h1>
+    <li>životní změny</li>
+    <li>stabilizovat svoji situaci</li>
+    <li>žít zdravěji či samostatněji</li>
+    <li>dotáhnout vše do konce</li>
+  </p>
+  <p>
+  Klient si postupně prochází uvědoměními těchto i jiných cílů. Kouč mu k tomu pomáhá svými otázkami.
+  Klient si díky kouči uvědomuje co vlastně v životě chce a jaké všechny možnosti má pro dosáhnutí svých cílů.
+  </p> 
+
+  <h1 class="page-heading">Sjednat si schůzku</h1>
 
   <ul class="post-list">
     {% for staff_member in site.staff_members %}
         <h2>{{ staff_member.name }}</h2>
-        <div>{{ staff_member.position }}</div>
-        <div>Telefon: {{ staff_member.phone }} </div>
-        <div><a href={{ staff_member.email }}>e-mail</a></div>
-        <img src="https://drive.google.com/thumbnail?id={{staff_member.img_id}}&sz=w600" a/>
-        <p>{{ staff_member.content | markdownify }}</p>
+        <div>
+          <a href="https://calendar.app.google/{{ staff_member.calendar | uri_escape }}">Kalendář</a>
+          <a href="tel:{{ staff_member.phone | uri_escape }}">{{ staff_member.phone | markdownify }}</a>
+          <a href="mailto:{{ staff_member.email | uri_escape}}">email: {{ staff_member.email | uri_escape }}</a>
+          <img src="https://drive.google.com/thumbnail?id={{ staff_member.img_id | uri_escape }}&sz=w600" />
+        </div>
+        
     {% endfor %}
 
     {% for post in site.posts %}
@@ -21,12 +35,8 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  <p>
-
-    <!-- Google Calendar Appointment Scheduling begin -->
-    <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3KH6G1DM40ZGLZGDhdVGtBdinSM5dyqsbCJ9vJdrWzHq-CW1zIx0ySK5Ohh5oecp_NeiZPVvzH?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
-    <!-- end Google Calendar Appointment Scheduling -->
-    
+  <p>    
+    <a href="{{ "/Tips.cs.html" | prepend: site.baseurl }}">Tipy</a> | 
     <a href="{{ "/Contract.cs.html" | prepend: site.baseurl }}">Smlouva</a> | 
     <a href="{{ "/Conditions.cs.html" | prepend: site.baseurl }}">Podmínky</a> |
     <a class="rss-subscribe" href="{{ "/feed" | prepend: site.baseurl }}">subscribe via RSS feed</a>
