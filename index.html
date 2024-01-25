@@ -8,18 +8,17 @@ layout: default
     <li>životní změny</li>
     <li>stabilizovat svoji situaci</li>
     <li>žít zdravěji či samostatněji</li>
-    <li>dotáhnout vše do konce</li>
+    <li>mít vše hotovo</li>
   </p>
   <p>
   Klient si postupně prochází uvědoměními těchto i jiných cílů. Kouč mu k tomu pomáhá svými otázkami.
   Klient si díky kouči uvědomuje co vlastně v životě chce a jaké všechny možnosti má pro dosáhnutí svých cílů.
   </p> 
 
-  <h1 class="page-heading">Sjednat si schůzku</h1>
-
   <ul class="post-list">
     {% for staff_member in site.staff_members %}
-        <h2>{{ staff_member.name }}</h2>
+      <h2>Sjednat si schůzku</h2>
+      <h3>{{ staff_member.name }}</h3>
         <div>
           <a href="https://calendar.app.google/{{ staff_member.calendar | uri_escape }}">Kalendář</a>
           <a href="tel:{{ staff_member.phone | uri_escape }}">{{ staff_member.phone | markdownify }}</a>
