@@ -27,12 +27,11 @@ Sezení se nepřevádějí do dalšího týdne. Dáte-li svému kouči předem v
 Kouč je povinen přijít připraven a včas na setkání a být klientovi po dobu koučovacího sezení plně k dispozici.
 
 ### Ujednání o cenách a úhradách koučinku prostřednictvím telefonické či videokonference
-Klient si cenu za první koučinkové sezení určí sám a zaplatí ji předem. Může to být 1.-Kč. Může to být i 3000.-Kč i více pokud klient ocenuje kvalitu a koučink má pro klienta smysl a význam. Úhradu kouč přijímá pouze na fakturu. Úhradu přijímá kouč elektronicky. 
+Klient si cenu za první koučovací sezení určí sám a zaplatí ji předem. Může to být 1.-Kč. Může to být i 3000.-Kč i více pokud klient ocenuje kvalitu a koučink má pro klienta smysl a význam. Kouč přijímá úhradu web-fakturou a elektronickou platbou.
 
-Další koučovací sezení si klient a kouč dohodnou individuálně v balíčku např 4 sezení během dvou měsíců aby měl klient dost času na to uskutečnit svůj cíl. Cena těchto balíčků je popsána níže.
+Další koučovací sezení si klient a kouč dohodnou individuálně v balíčku např 4 sezení během dvou měsíců aby měl klient dost času na to uskutečnit svůj cíl. Na ceně těchto balíčků je možno se domluvit.
 
-Je možné se s koučem domluvit na platbách více koučovacích sezení
-najednou, např. v měsíčních platbách.
+Koučovací sezení je možno platit elektronicky. Objednateli bude vystavena web-faktura.
 
 #### Zrušení telefonické či videokonference
 Čas je v našich životech to nejdůležitější. V případě zrušení koučovacího sezení prostřednictvím telefonické či videokonference koučovi vznikla v rozvrhu mezera, která by jinak mohla být použita efektivněji. Proto prosím o dodržení časového plánu. V případě předplaceného koučingu budou účtovány storno poplatky:
@@ -52,25 +51,25 @@ poskytoval vhodné pokyny, definoval zodpovědnosti a vymahatelné normy chován
 ICF a všechny držitele certifikátů ICF, kteří se zaváží k dodržování následujícího Etického kodexu ICF.
 
 ## Část první: Definice
-• Koučink je partnerství s klienty v jejich v myšlenkovém a tvůrčím procesu, který je inspiruje k
+ * Koučink je partnerství s klienty v jejich v myšlenkovém a tvůrčím procesu, který je inspiruje k
 maximalizaci jejich osobního a profesního potenciálu.
-• Kouč ICF souhlasí s praktickým využíváním klíčových kompetencí ICF a slibuje dodržování
+ * Kouč ICF souhlasí s praktickým využíváním klíčových kompetencí ICF a slibuje dodržování
 Etického kodexu ICF.
-• Profesionální koučovací vztah existuje, pokud koučování zahrnuje dohodu (včetně smluv), která
+ * Profesionální koučovací vztah existuje, pokud koučování zahrnuje dohodu (včetně smluv), která
 definuje odpovědnosti každé strany.
-• Role v koučovacím vztahu: V zájmu objasnění rolí v koučovacím vztahu je často nutné rozlišovat
+  * Role v koučovacím vztahu: V zájmu objasnění rolí v koučovacím vztahu je často nutné rozlišovat
 mezi klientem a objednavatelem. Ve většině případů je klient a objednavatel jedna a tatáž
 osoba, a proto jsou společně označovány jako klient. Nicméně pro účely identifikace ICF tyto
 role definuje následujícím způsobem:
-• "Klient/Koučovaný“ je osoba, která je koučovaná.
-• "Objednavatelem/Sponzorem" je subjekt (včetně jeho zástupců), platící a / nebo zajišťující
+ * "Klient/Koučovaný“ je osoba, která je koučovaná.
+ * "Objednavatelem/Sponzorem" je subjekt (včetně jeho zástupců), platící a / nebo zajišťující
 koučovací služby, které mají být poskytnuty. Ujednání dohody o koučování by ve všech
 případech měly jasně stanovit práva, role a povinnosti jak pro klienta, tak pro objednavatele,
 pokud jsou klient a objednavatel různí lidé.
-• Studentem je ten, kdo se zapsal do vzdělávacího programu pro kouče nebo ten, kdo pracuje se
+ * Studentem je ten, kdo se zapsal do vzdělávacího programu pro kouče nebo ten, kdo pracuje se
 supervizorem koučů či mentorem, aby se učil koučovací proces nebo rozšířil a rozvíjel své
 koučovací dovednosti.
-• Konflikt zájmů je situace, ve které má kouč značný soukromý nebo osobní zájem ovlivňovat cíl
+ * Konflikt zájmů je situace, ve které má kouč značný soukromý nebo osobní zájem ovlivňovat cíl
 jeho oficiálních povinností jako kouče a profesionála.
 
 ## Část druhá: Standardy etického chování podle ICF
@@ -169,4 +168,5 @@ ICF za jakékoli porušení může zahrnovat sankce, jako je ztráta mého člen
 certifikace.
 
 ## Kouč
-Jaroslav Henner, tel: 725 580 001
+Jaroslav Henner, Bezručova 688, 789 83 Loštice, IČO 19458568 <br />
+Tel.: +725 580 001, email: jaroslav.henner@gmail.com<br />
