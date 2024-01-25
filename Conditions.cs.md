@@ -73,90 +73,90 @@ koučovací dovednosti.
 jeho oficiálních povinností jako kouče a profesionála.
 
 ## Část druhá: Standardy etického chování podle ICF
-Oddíl 1: Profesionální chování celkově
+### Oddíl 1: Profesionální chování celkově
 Jako kouč
-1) se chovám v souladu s Etickým kodexem ICF ve všech situacích, včetně výcviku koučování, mentoringu
+1. se chovám v souladu s Etickým kodexem ICF ve všech situacích, včetně výcviku koučování, mentoringu
 a supervize koučů.
-2) se zavazuji přijmout příslušná opatření, případně kontaktovat ICF, aby se co nejdříve řešilo porušení
+2. se zavazuji přijmout příslušná opatření, případně kontaktovat ICF, aby se co nejdříve řešilo porušení
 nebo možné porušení etiky, týkající se mě nebo ostatních koučů, trenérů či mentorů.
-3) komunikuji a šířím dál povědomí o povinnostech stanovených tímto Etickým kodexem ostatním -
+3. komunikuji a šířím dál povědomí o povinnostech stanovených tímto Etickým kodexem ostatním -
 organizacím, zaměstnancům, objednavatelům, koučům.
-4) se vyhnu protiprávní diskriminaci v pracovních činnostech, včetně věku, rasy, pohlaví, národnosti,
+4. se vyhnu protiprávní diskriminaci v pracovních činnostech, včetně věku, rasy, pohlaví, národnosti,
 sexuální orientace, náboženství, národnostního původu či zdravotního postižení.
-5) ve slovních i písemných prohlášeních uvádím pravdivé a přesné informace o tom, co mohu nabídnout
+5. ve slovních i písemných prohlášeních uvádím pravdivé a přesné informace o tom, co mohu nabídnout
 jako kouč, o tom, co znamená profese kouče nebo ICF.
-6) přesně nazývám své koučovací kvalifikace, odbornost, zkušenosti, výcvik, certifikace a akreditace ICF.
-7) respektuji a oceňuji příspěvky ostatních a za vlastní vydávám pouze ty materiály, které jsem sám
+6. přesně nazývám své koučovací kvalifikace, odbornost, zkušenosti, výcvik, certifikace a akreditace ICF.
+7. respektuji a oceňuji příspěvky ostatních a za vlastní vydávám pouze ty materiály, které jsem sám
 vytvořil. Beru na vědomí, že porušení tohoto standardu může vést k nároku třetí osoby na právní
 náhradu.
-8) za všech okolností usiluji, abych rozpoznal své osobní problémy, které mohou narušit, být v rozporu
+8. za všech okolností usiluji, abych rozpoznal své osobní problémy, které mohou narušit, být v rozporu
 nebo negativně ovlivnit můj výkon v koučování nebo mé profesní vztahy. Okamžitě vyhledám
 odpovídající odbornou pomoc a učiním příslušná opatření. Pokud to budou skutečnosti a okolnosti
 vyžadovat, zvážím, zda je vhodné pozastavit nebo ukončit mé koučovací vztah/y.
-9) jsem si vědom, že Etický kodex se vztahuje ke klientům koučování, studentům, mentorovaným a
+9. jsem si vědom, že Etický kodex se vztahuje ke klientům koučování, studentům, mentorovaným a
 supervidovaným osobám.
-10) své výzkumy vedu a zaznamenávám kompetentně, poctivě a v rámci uznávaných vědeckých
+10. své výzkumy vedu a zaznamenávám kompetentně, poctivě a v rámci uznávaných vědeckých
 standardů a příslušných pokynů. Výzkumy provádím po dohodě a se souhlasem zúčastněných
 a způsobem, který chrání účastníky od jakékoliv možné škody. Veškerá výzkumná činnost je prováděna
 způsobem, který je v souladu se všemi platnými zákony země, ve které se výzkum provádí.
-11) udržuji, uchovávám a likviduji veškeré záznamy, včetně elektronických souborů a komunikací,
+11. udržuji, uchovávám a likviduji veškeré záznamy, včetně elektronických souborů a komunikací,
 vytvořené během mého koučování, takovým způsobem, který zaručuje důvěrnost, bezpečnost a ochranu
 soukromí a je v souladu s platnými zákony a dohodami.
-12) používám kontaktní informace členské základny ICF (e-mailové adresy, telefonní čísla atd.) pouze
+12. používám kontaktní informace členské základny ICF (e-mailové adresy, telefonní čísla atd.) pouze
 způsobem a v rozsahu schváleném ICF.
 
-##  Oddíl 2: Střet zájmů
-### Jako kouč
-13) vědomě předcházím střetu zájmů, potenciálnímu i skutečnému. Otevřeně o takovém konfliktu
+###  Oddíl 2: Střet zájmů
+#### Jako kouč
+13. vědomě předcházím střetu zájmů, potenciálnímu i skutečnému. Otevřeně o takovém konfliktu
 informuji, a pokud nastane, nabídnu svoje odstoupení.
-14) vyjasním role pro interní kouče. Stanovím hranice a se zúčastněnými stranami přezkoumám možné
+14. vyjasním role pro interní kouče. Stanovím hranice a se zúčastněnými stranami přezkoumám možné
 střety zájmů, které by se mohly objevit mezi koučováním a jejich dalšími činnostmi.
-15) informuji klienta i objednatele o možných odměnách od třetích stran, které mohu obdržet
+15. informuji klienta i objednatele o možných odměnách od třetích stran, které mohu obdržet
 na základě předání doporučení dalších služeb klientovi.
-16) respektuji nestranný vztah mezi koučem a klientem bez ohledu na formu odměny.
+16. respektuji nestranný vztah mezi koučem a klientem bez ohledu na formu odměny.
 
-## Oddíl 3: Profesionální chování s klienty
-### Jako kouč
-17) pravdivě informuji klienty, potenciální klienty i objednatele o potenciální hodnotě koučovacího
+### Oddíl 3: Profesionální chování s klienty
+#### Jako kouč
+17. pravdivě informuji klienty, potenciální klienty i objednatele o potenciální hodnotě koučovacího
 procesu i o hodnotě práce kouče.
-18) na úvodním setkání nebo před ním vysvětluji klientovi a objednateli, aby rozuměli co nejlépe, jaká je
+18. na úvodním setkání nebo před ním vysvětluji klientovi a objednateli, aby rozuměli co nejlépe, jaká je
 podstata koučování, jaký je jeho přínos a limity, podstata a omezení zachování mlčenlivosti, finanční
 ujednání a všechny ostatní podmínky koučovací dohody.
-19) mám jasnou dohodu o koučovacích službách s mými klienty a objednavateli před začátkem
+19. mám jasnou dohodu o koučovacích službách s mými klienty a objednavateli před začátkem
 koučovacího vztahu a tuto dohodu dodržuji. Dohoda musí obsahovat role, odpovědnosti a práva všech
 zúčastněných stran.
-20) jsem si vědom své zodpovědnosti za stanovení jasných, vhodných a kulturně citlivých hranic, které
+20. jsem si vědom své zodpovědnosti za stanovení jasných, vhodných a kulturně citlivých hranic, které
 řídí vzájemnou komunikaci, fyzický kontakt a podobně, jež mohu mít s mými klienty nebo zadavateli.
-21) se vyhnu jakémukoli sexuálnímu nebo romantickému vztahu se stávajícími klienty nebo
+21. se vyhnu jakémukoli sexuálnímu nebo romantickému vztahu se stávajícími klienty nebo
 objednavateli či studenty, mentorovanými nebo supervidovanými osobami. Abych zajistil celkově
 bezpečné prostředí, budu dávat pozor na možnost případné sexuální intimity mezi zúčastněnými
 stranami, včetně mého pomocného personálu a / nebo asistentů a učiním příslušné kroky k řešení
 problému nebo zrušení koučovacího vztahu.
-22) respektuji právo klienta ukončit koučovací vztah kdykoli během procesu v souladu s ustanoveními
+22. respektuji právo klienta ukončit koučovací vztah kdykoli během procesu v souladu s ustanoveními
 dohody. Také nadále pozorně sleduji, dochází-li ke změně následkem koučovacího vztahu.
-23) jestliže jsem přesvědčen, že by klientovi nebo objednateli lépe prospěl jiný kouč nebo způsob,
+23. jestliže jsem přesvědčen, že by klientovi nebo objednateli lépe prospěl jiný kouč nebo způsob,
 podporuji klienta nebo objednavatele, aby udělal změnu a pokud to bude nezbytné nebo vhodné,
 navrhnu mému klientovi vyhledat služby dalších odborníků.
 
-## Oddíl 4: Zachování mlčenlivosti / Soukromí
-### Jako kouč
-24) dodržuji nejpřísnější úroveň zachování mlčenlivosti se všemi klienty a objednavateli, pokud není její
+### Oddíl 4: Zachování mlčenlivosti / Soukromí
+#### Jako kouč
+24. dodržuji nejpřísnější úroveň zachování mlčenlivosti se všemi klienty a objednavateli, pokud není její
 porušení požadováno zákonem.
-25) stanovím jednoznačně, jakým způsobem budou informace z koučování sdělovány mezi koučem,
+25. stanovím jednoznačně, jakým způsobem budou informace z koučování sdělovány mezi koučem,
 klientem a objednavatelem.
-26) stanovuji jednoznačně, kdy pro klienta i objednavatele, studenta, mentorovaného nebo
+26. stanovuji jednoznačně, kdy pro klienta i objednavatele, studenta, mentorovaného nebo
 supervidovanou osobu, já v roli kouče, mentora kouče, trenéra nebo supervizora koučování, nemohu
 dodržet pravidlo mlčenlivosti (např. nezákonná činnost, platný soudní příkaz nebo předvolání,
 bezprostřední riziko ohrožení sebe nebo ostatních atd.). Zároveň se ujistím, že klient i objednavatel,
 student, vedený člen týmu nebo supervidovaný dobrovolně a vědomě písemně souhlasí s tímto
 omezením mlčenlivosti. Tam, kde je důvod se domnívat, že nastala jedna z výše uvedených okolností,
 musím informovat příslušné úřady.
-27) vyžaduji, aby všichni, kteří se mnou spolupracují při podpoře mých klientů, dodržovali Etický kodex
+27. vyžaduji, aby všichni, kteří se mnou spolupracují při podpoře mých klientů, dodržovali Etický kodex
 ICF, číslo 26, oddíl 4, Zachování mlčenlivosti / Soukromí a všechny ostatní části Etického kodexu, které by
 mohly být použitelné.
 Oddíl 5: Další rozvoj
 Jako kouč
-28) se zavazuji, že budu pokračovat v neustálém rozvoji mých profesních dovedností.
+28. se zavazuji, že budu pokračovat v neustálém rozvoji mých profesních dovedností.
 
 ##  Část třetí: Etický slib ICF
 Jako kouč ICF beru na vědomí a souhlasím, že budu ctít svoje etické a právní závazky vůči mým klientům
