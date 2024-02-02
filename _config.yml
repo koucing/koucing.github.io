@@ -1,7 +1,7 @@
 title: Koučing
 author: Jaroslav Henner
 description: Prožít svoje dobré sny.
-google_analytics: G-CSG1PGF4R7
+#google_analytics: G-CSG1PGF4R7
 
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
