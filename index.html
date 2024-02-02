@@ -71,10 +71,11 @@ Držet se toho zábradlí však musí každý musí sám.
     {% for staff_member in site.staff_members %}
       <h3>{{ staff_member.name }}</h3>
         <div>
-          <a href="https://calendar.app.google/{{ staff_member.calendar | uri_escape }}">Kalendář</a>
+          <!-- Google Calendar Appointment Scheduling begin -->
+          <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3KH6G1DM40ZGLZGDhdVGtBdinSM5dyqsbCJ9vJdrWzHq-CW1zIx0ySK5Ohh5oecp_NeiZPVvzH?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+          <!-- end Google Calendar Appointment Scheduling -->
           <a href="tel:{{ staff_member.phone | uri_escape }}">{{ staff_member.phone | markdownify }}</a>
           <a href="mailto:{{ staff_member.email | uri_escape}}">email: {{ staff_member.email | uri_escape }}</a>
-          <img src="https://drive.google.com/thumbnail?id={{ staff_member.img_id | uri_escape }}&sz=w600" />
         </div>
         
     {% endfor %}
