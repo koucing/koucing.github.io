@@ -1,29 +1,81 @@
 ---
 layout: default
 ---
+Tak jako zábradlí slouží na schodech pro lidi — vede je tam kam chtějí. 
+Držet se toho zábradlí však musí každý musí sám.
 
 <div class="home">
   <p>
-    <h1>Typické sny a výzvy klientů řešených koučingem</h1>
-    <li>životní změny</li>
-    <li>stabilizovat svoji situaci</li>
-    <li>žít zdravěji či samostatněji</li>
-    <li>mít vše hotovo</li>
+    <h2>Typické sny a výzvy klientů vyřešených koučingem</h2>
+    <ul class="post-list">
+      <li>Životní změny — Odvaha do změny zaměstnání. Odvaha začít podnikat.</li>
+      <li>Změnit své hodnoty — Například začít se více věnovat duchovnímu životu.</li>
+      <li>Žít zdravěj či samostatněji</li>
+    </ul>
+  </p>
+  <h2>Co čekat?</h2>
+  <p>
+  Na nejlépe telefonickém či online sezení si popovídáme o sobě a pak
+  se začneme zabývat klientovým tématem — tím co si klient určí jako
+  svůj cíl. Klient například může mít tema rozhovoru:
+  <ul class="post-list">
+    <li>Chci se zlepšit v Matematice.</li>
+    <li>Chci se vydělat více peněz.</li>
+    <li>Chci lepší práci.</li>
+  </ul>
+  </p> 
+  <p>
+  Při koučování si klient díky otázkám kladeným koučem uvědomuje co vlastně 
+  v daném tématu konkrétně chce, o co mu jde a jaké různé možnosti
+  má pro dosáhnutí svých cílů. Pracuje svou předstvivostí.
+  Tím si ji trenuje.
+  <ul class="post-list">
+    <li>Motivuje se ke zlepšení</li>
+    <li>Zvažuje možnosti — alternativy.</li>
+    <li>Nakonec dosahuje cílů</li>
+  </ul>
   </p>
   <p>
-  Klient si postupně prochází uvědoměními těchto i jiných cílů. Kouč mu k tomu pomáhá svými otázkami.
-  Klient si díky kouči uvědomuje co vlastně v životě chce a jaké všechny možnosti má pro dosáhnutí svých cílů.
-  </p> 
+    Kouč během rozhovoru hlídá aby klient zůstal v takzvaném pozitivním uvažování,
+    takže pokud klient přijde s tématem, např: Nechci se chvástat.,
+    Kouč se typicky zeptá: Jak chcete aby to bylo?.
+    Můžete si vyzkoušet. Možná budete výsledkem překvapeni.
+    To je v pořádku. Možná se odkrylo jiné téma. To je v pořádku.
+  </p>
+  <h2>Co není čistý koučing?</h2>
+  <p> 
+    <h3>Mentoring, Trening.</h3>
+    <p>
+      Kouč na klientovi rozhodně nechce uplatňovat jakoukoliv svoji vůli.
+      — Tedy nepoužívá manipulatitvních technik.
+      Proto se pro koučing preferuje telefonní hovor.
+      Během koučování kouč nic nenakazuje, neradí, neponižuje, nesoudí.
+    </p> 
+    <p>
+      Kouč klientovi během koučovacího sezení rozhodně neřekne tvrzení
+      o tom jaký klient je. I tvrzení: "Jste hodný" může druhému člověku
+      vyvolat averzi, protože je často používáno k manipulaci:
+    </p>
+    <p>
+      A(zeptá se): Máš hotové co jsem ti zadal?
+      B: Ano?
+      A(snaží se odměnit B pouhým slovem): Jsi hodný.
+    </p>
+    <p>
+      Kouč pouze klade otázky tak aby si klient na vše přišel co možná
+      nejvíc samostatně.
+    </p> 
 
+  <h2>Sjednat si koučovací sezení</h2>
   <ul class="post-list">
     {% for staff_member in site.staff_members %}
-      <h2>Sjednat si schůzku</h2>
       <h3>{{ staff_member.name }}</h3>
         <div>
-          <a href="https://calendar.app.google/{{ staff_member.calendar | uri_escape }}">Kalendář</a>
+          <!-- Google Calendar Appointment Scheduling begin -->
+          <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3KH6G1DM40ZGLZGDhdVGtBdinSM5dyqsbCJ9vJdrWzHq-CW1zIx0ySK5Ohh5oecp_NeiZPVvzH?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+          <!-- end Google Calendar Appointment Scheduling -->
           <a href="tel:{{ staff_member.phone | uri_escape }}">{{ staff_member.phone | markdownify }}</a>
           <a href="mailto:{{ staff_member.email | uri_escape}}">email: {{ staff_member.email | uri_escape }}</a>
-          <img src="https://drive.google.com/thumbnail?id={{ staff_member.img_id | uri_escape }}&sz=w600" />
         </div>
         
     {% endfor %}
