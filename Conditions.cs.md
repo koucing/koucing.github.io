@@ -1,5 +1,26 @@
 # Podmínky spolupráce - Koučování
 
+# Dodržování Božích přikázání
+
+## Největší příkázání (Matouš 22:36, CSP)
+"Učiteli, které přikázání je v Zákoně největší?" On mu řekl: "Miluj Pána, svého Boha, celým svým srdcem, celou svou duší a celou svou myslí." To je největší a první přikázání. Druhé je mu podobné: "Miluj svého bližního jako sebe samého." Na těchto dvou přikázáních spočívá celý Zákon a Proroci."
+
+## Desatero přikázání (Exodus 20, CSP)
+Potom Bůh vyhlásil všechna tato slova. Řekl: 
+Já Hospodin jsem tvůj Bůh, který jsem tě vyvedl z egyptské země, z domu otroctví.
+1. Nebudeš mít jiné bohy vedle mne. 
+2. Neuděláš si tesanou modlu ani jakékoliv zpodobení toho, co je nahoře na nebi nebo dole na zemi či ve vodě pod zemí.
+   Nebudeš se jim klanět a nebudeš jim otročit, neboť já Hospodin, tvůj Bůh, jsem Bůh žárlivý, který s trestem navštěvuji vinu otců na synech i na třetí a na čtvrté generaci těch, kdo mě nenávidí, ale prokazuji milosrdenství tisícům těch, kdo mne milují a zachovávají mé příkazy.
+3. Nebudeš brát jméno Hospodina, svého Boha, nadarmo, protože Hospodin nenechá bez trestu toho, kdo bere jeho jméno nadarmo.
+4. Pamatuj na sobotní den, abys ho posvětil.
+   Šest dní budeš pracovat a dělat všechnu svou práci, ale sedmý den je sobota patřící Hospodinu, tvému Bohu. Nebudeš dělat žádnou práci ty ani tvůj syn ani tvá dcera, tvůj otrok ani tvá otrokyně, tvé zvíře ani tvůj příchozí, který je ve tvých branách, protože šest dní Hospodin dělal nebesa a zemi, moře a všechno, co je v nich, a sedmý den odpočinul. Proto Hospodin požehnal sobotní den a posvětil ho.
+5. Cti svého otce a svou matku, aby se prodloužily tvé dny na zemi, kterou ti dává Hospodin, tvůj Bůh.
+6. Nebudeš vraždit!
+7. Nebudeš cizoložit!
+8. Nebudeš krást!
+9. Nebudeš vydávat proti svému bližnímu falešné svědectví!
+10. Nebudeš dychtit po domě svého bližního. Nebudeš dychtit po ženě svého bližního ani po jeho otroku ani po jeho otrokyni ani po jeho býku ani po jeho oslu, vůbec po ničem, co patří tvému bližnímu.
+
 ## Klient
 Klient ve pracuje na realizaci vytyčeného cíle. Kouč pouze umožňuje klientův vývoj který si klient určuje sám pomocí otázek které mu kouč dává.
 
